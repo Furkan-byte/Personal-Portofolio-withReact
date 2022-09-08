@@ -67,6 +67,10 @@ header{
     header{
         height: 68vh;
     }
+
+    .me{
+        margin-left: 1rem;
+    }
 }
 
 /* ================ Small Devices ============== */
@@ -77,5 +81,8 @@ header{
 
     .header__socials,.scroll__down{
         display:none;
+    }
+    .me{
+        margin-left: 1rem;
     }
 }
