@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import VS from '../../assets/vs.png'
+import VS from '../../assets/vss.jpg'
 import {CgWorkAlt} from 'react-icons/cg'
 import {MdCastForEducation} from 'react-icons/md'
 import {SiHtml5} from 'react-icons/si'

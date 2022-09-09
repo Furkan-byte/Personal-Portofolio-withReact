@@ -11,10 +11,10 @@
 }
 
 :root{
-    --color-bg:#1f1f38;
-    --color-bg-variant:#2c2c6c;
-    --color-primary:#4db5ff;
-    --color-primary-variant:rgba(77,181,255,0.4);
+    --color-bg:#262c33;
+    --color-bg-variant:#171b1b;
+    --color-primary:#b2c4d1;
+    --color-primary-variant:rgba(212, 150, 126, 0.596);
     --color-white:#fff;
     --color-light:rgba(255,255,255,0.6);
 
@@ -53,7 +53,6 @@ h1,h2,h3,h4,h5{
 h1{
     font-size: 2.5rem;
 }
-
 section{
     margin-top: 8rem;
 }
